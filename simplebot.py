@@ -12,7 +12,7 @@ import openai
 from datetime import datetime
 from tkinter import *
 
-openai.api_key = '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'
+openai.api_key = <api key>
 
 
 def get_bot_response(user_input):
